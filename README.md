@@ -18,10 +18,10 @@ From looking at the trip duration data another feature of the data that may be i
 
 
 To further understand the trends of customers in NYC the heatmap below shows the most active times on the bike sharing platform across the week. The busiest times based on the chart are during the moring commute Monday - Friday from 7am to 9am, and during the evening commute Monday - Friday 4pm to 6pm. 
--
+
 ![Trips_Weekday](https://user-images.githubusercontent.com/96552268/172543878-7c868f03-6940-4ad3-97ad-3bdb00a70ffb.png)
 
-
+Similar to the data that was displayed in the earlier chart, during those busiest commute times, the majority of the customers are males as can be seen in the heatmap below. 
 ![Trips_gender](https://user-images.githubusercontent.com/96552268/172544207-52f496f0-c90f-4d14-842e-4feafb2460f5.png)
 
 
