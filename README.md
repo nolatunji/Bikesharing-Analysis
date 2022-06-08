@@ -9,7 +9,7 @@ For this project, data from the Citi Bike program in New York City was used. The
 
 ## Results 
 
-This chart displays the duration of the average trip and how many bikes are in use during these trips. The average trip is usually around 30 minutes with almost no trips lasting longer than 1 hour.  
+This chart displays the duration of the average trip and how many bikes are in use during these trips. The average trip is usually around 30 minutes with few, if any trips lasting longer than 1 hour.  
 ![Time_users](https://user-images.githubusercontent.com/96552268/172542559-bee302f8-0404-4bcb-a818-dc311d6f71db.png)
 
 
