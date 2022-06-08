@@ -49,4 +49,4 @@ The New York City Citibike analysis has provided key insights into the customer 
 Continued analysis of the data could be useful in the decision making process for investors. Potential future exploration of the data could include: 
 
 - analysis of usage on the weekends to get more detailed information on which segments of the customer base (age, gender, customer type, etc.)  are using the service on the weekends.  
-- analysis of where the customer base in most active on the weekends using the map overlays for the most popular rental sites during those times. 
+- analysis of where the customer base is most active on the weekends using the map overlays for the most popular rental sites during those times. 
