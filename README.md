@@ -26,11 +26,16 @@ Similar to the data that was displayed in the earlier chart, during those busies
 ![Trips_gender](https://user-images.githubusercontent.com/96552268/172544207-52f496f0-c90f-4d14-842e-4feafb2460f5.png)
 
 
+The bike share customer base has been divided into two segments in this graph, customers and subscribers. The customers are users of the platform who do not have an active subscription with Citibike, while the subscribers do. The heatmap shows a large portion of the the customer base are those who have subscriptions. The chart also shows that customers with subscriptions are most active during the weekdays with a drop in volume on the weekends, while customers without subscriptions show an increase in usage during the weekends. 
 
 ![Gender_weekday](https://user-images.githubusercontent.com/96552268/172543892-b3fadcc9-37c1-468a-944d-71d3d7babfd2.png)
 
+This map shows the most active starting points for Citibike rentals in New York City. The largest concentration of popular starting points in in lower Manhattan. This could be due to traffic, or other factors that make commuting in the area by other forms of transportation difficult. Also there may more tourist activity in the area as well. 
 
 ![nyc_starting](https://user-images.githubusercontent.com/96552268/172543916-ae38a286-0a1d-4c84-89b2-94e7dbb02df2.png)
+
+
+With our data showing us that the majority of trips last approximately 30 minutes, the heatmap below showing the most popular ending points for bike share customers supports that data. The concentration of most popular ending points is in the same area as the most popular starting points indicating that the riders are not taking bikes across longer distances. 
 
 ![nyc_ending](https://user-images.githubusercontent.com/96552268/172543911-8dada40b-00dd-4ed3-a500-a11e470dd812.png)
 
