@@ -31,7 +31,7 @@ The bike share customer base has been divided into two segments in this graph, c
 
 ![Gender_weekday](https://user-images.githubusercontent.com/96552268/172543892-b3fadcc9-37c1-468a-944d-71d3d7babfd2.png)
 
-This map shows the most active starting points for Citibike rentals in New York City. The largest concentration of popular starting points in in lower Manhattan. This could be due to traffic, or other factors that make commuting in the area by other forms of transportation difficult. Also there may more tourist activity in the area as well. 
+This map shows the most active starting points for Citibike rentals in New York City. The largest concentration of popular starting points is in lower Manhattan. This could be due to traffic, or other factors that make commuting in the area by other forms of transportation difficult. Also there may more tourist activity in the area as well. 
 
 ![nyc_starting](https://user-images.githubusercontent.com/96552268/172543916-ae38a286-0a1d-4c84-89b2-94e7dbb02df2.png)
 
