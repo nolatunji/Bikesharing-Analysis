@@ -22,6 +22,7 @@ To further understand the trends of customers in NYC the heatmap below shows the
 ![Trips_Weekday](https://user-images.githubusercontent.com/96552268/172543878-7c868f03-6940-4ad3-97ad-3bdb00a70ffb.png)
 
 Similar to the data that was displayed in the earlier chart, during those busiest commute times, the majority of the customers are males as can be seen in the heatmap below. 
+
 ![Trips_gender](https://user-images.githubusercontent.com/96552268/172544207-52f496f0-c90f-4d14-842e-4feafb2460f5.png)
 
 
