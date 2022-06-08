@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-For this project, data from the Citi Bike program in New York City was used. The purpsoe of the project is to analyze the data from New York City's bike sharing program to see if it would be viable business model in Des Moines, Iowa. The analysis focuses on using the NYC data to answer key questions as a starting point for deciding on going forward with this business investment idea. For this analysis a sample of data was used from the month of August since it would be one of the busiest times for the bike share program. 
+For this project, data from the Citi Bike program in New York City was used. The purpsoe of the project is to analyze the data from New York City's bike sharing program to see if it would be a viable business model in Des Moines, Iowa. The analysis focuses on using the NYC data to answer key questions as a starting point for deciding on going forward with this business investment idea. For this analysis a sample of data was used from the month of August since it would be one of the busiest times for the bike share program. 
 
 [link to dashboard](https://public.tableau.com/app/profile/njeri.olatunji/viz/CitibikeStory_16546667101790/Story1?publish=yes)
 
