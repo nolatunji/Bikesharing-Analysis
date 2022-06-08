@@ -26,6 +26,7 @@ Similar to the data that was displayed in the earlier chart, during those busies
 ![Trips_gender](https://user-images.githubusercontent.com/96552268/172544207-52f496f0-c90f-4d14-842e-4feafb2460f5.png)
 
 
+
 The bike share customer base has been divided into two segments in this graph, customers and subscribers. The customers are users of the platform who do not have an active subscription with Citibike, while the subscribers do. The heatmap shows a large portion of the the customer base are those who have subscriptions. The chart also shows that customers with subscriptions are most active during the weekdays with a drop in volume on the weekends, while customers without subscriptions show an increase in usage during the weekends. 
 
 ![Gender_weekday](https://user-images.githubusercontent.com/96552268/172543892-b3fadcc9-37c1-468a-944d-71d3d7babfd2.png)
@@ -40,3 +41,12 @@ With our data showing us that the majority of trips last approximately 30 minute
 ![nyc_ending](https://user-images.githubusercontent.com/96552268/172543911-8dada40b-00dd-4ed3-a500-a11e470dd812.png)
 
 
+## Summary 
+
+The New York City Citibike analysis has provided key insights into the customer base and usage of the platform in a big metropolitan city such as New York. The main points revealed by the analysis are the majority of the users of the platform are male customers who have subscriptions and are most active on the weekdays especially during peak rush hour commute times. 
+
+### Further Analysis
+Continued analysis of the data could be useful in the decision making process for investors. Potential future exploration of the data could include: 
+
+- analysis of usage on the weekends to get more detailed information on which segments of the customer base (age, gender, customer type, etc.)  are using the service on the weekends.  
+- analysis of where the customer base in most active on the weekends using the map overlays for the most popular rental sites during those times. 
